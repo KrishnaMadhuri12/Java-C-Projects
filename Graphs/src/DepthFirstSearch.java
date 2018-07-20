@@ -6,7 +6,7 @@ import java.util.Set;
 /*
  * SD2x Homework #6
  * This is an implementation of Depth First Search (DFS) on a graph.
- * You may modify and submit this code if you'd like.
+ *
  */
 
 public class DepthFirstSearch {
